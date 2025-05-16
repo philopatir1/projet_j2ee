@@ -58,6 +58,6 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="sun.cpu.endian" value="little"/>
   </properties>
-  <testcase classname="com.example.TestGreeter" name="com.example.TestGreeter.testGreetLength" time="0.015"/>
-  <testcase classname="com.example.TestGreeter" name="com.example.TestGreeter.testGreetContains" time="0"/>
+  <testcase classname="com.example.TestGreeter" name="com.example.TestGreeter.testGreetLength" time="0.014"/>
+  <testcase classname="com.example.TestGreeter" name="com.example.TestGreeter.testGreetContains" time="0.001"/>
 </testsuite>
