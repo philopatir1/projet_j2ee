@@ -32,7 +32,7 @@ chmod +x /etc/profile.d/maven.sh
 source /etc/profile.d/maven.sh
 source /etc/profile.d/maven.sh
 # Ces lignes ajoutent Maven au PATH via un script de profil, pour qu’il soit accessible globalement
-
+#----
 
 apt install -y git
 
